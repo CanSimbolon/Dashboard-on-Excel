@@ -6,4 +6,3 @@ To create the dashboard, I first analyzed the sales data in Excel using pivot ta
 I then used this data to create several graphs and charts that visually represent the sales data. 
 The dashboard is interactive, allowing users to filter the data by region, education, and martial status.
 Overall, the dashboard provides a quick and easy way to analyze our company's sales data and identify areas for improvement. 
-Screenshots of the dashboard are included in this repository for reference.
